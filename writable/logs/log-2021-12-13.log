@@ -1,0 +1,251 @@
+CRITICAL - 2021-12-13 21:16:24 --> Undefined variable $ongkir
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_input.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 34)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_input', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(97): view('v_input', Array)
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->tampil_input('520000')
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-13 21:18:33 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 21:39:58 --> Undefined variable $db
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 104)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 21:40:25 --> Call to undefined function App\Controllers\getResult()
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-13 21:42:22 --> Undefined variable $getrow
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(114): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 114)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 21:55:37 --> Undefined variable $getRow
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 120)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 22:05:26 --> Undefined variable $p
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 133)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 22:14:26 --> Undefined array key "berat"
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 62)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(31): view('v_cart', Array)
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-13 22:15:21 --> Undefined array key "berat"
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 62)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(31): view('v_cart', Array)
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-13 22:29:12 --> strpos() expects at least 2 arguments, 1 given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(140): strpos('2')
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 22:30:06 --> Undefined array key 1
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 22:32:29 --> Undefined variable $weight
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(141): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 141)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 22:33:53 --> syntax error, unexpected variable "$weight"
+#0 D:\xampp\htdocs\onlineshop\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('c_tampil/CekOng...')
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('c_tampil/CekOng...')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 22:37:26 --> Undefined array key 1
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 22:37:50 --> Undefined array key 1
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 22:43:12 --> Undefined variable $totBerat
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 138)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 22:48:24 --> Undefined variable $tot
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_input.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_input', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(153): view('v_input', Array)
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-13 22:54:58 --> Undefined variable $tot
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_input.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 15)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_input', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(156): view('v_input', Array)
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-13 22:55:39 --> Undefined variable $tot
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_input.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 34)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_input', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(156): view('v_input', Array)
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-13 22:57:52 --> Undefined variable $total
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(156): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 156)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 23:04:08 --> Undefined variable $tot
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_input.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 38)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_input', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(156): view('v_input', Array)
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-13 23:05:10 --> Undefined variable $tot
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_input.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 38)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_input', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(156): view('v_input', Array)
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-13 23:05:38 --> Undefined variable $tot2
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_input.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 38)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_input', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(156): view('v_input', Array)
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2021-12-13 23:08:22 --> Column 'total_belanja' cannot be null
+CRITICAL - 2021-12-13 23:08:22 --> Column 'total_belanja' cannot be null
+#0 D:\xampp\htdocs\onlineshop\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pe...', 0)
+#1 D:\xampp\htdocs\onlineshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 D:\xampp\htdocs\onlineshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 D:\xampp\htdocs\onlineshop\system\Database\BaseBuilder.php(1759): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 D:\xampp\htdocs\onlineshop\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\onlineshop\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\onlineshop\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(172): CodeIgniter\Model->insert(Array)
+#8 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->inputTrx()
+#9 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#10 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2021-12-13 23:20:42 --> Undefined variable $berat_ongkir
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 154)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-13 23:21:08 --> Undefined variable $berat_Ongkir
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 154)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}

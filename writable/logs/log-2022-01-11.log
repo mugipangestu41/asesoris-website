@@ -1,0 +1,16 @@
+CRITICAL - 2022-01-11 08:03:10 --> Undefined array key 1
+#0 D:\xampp\htdocs\asesoris\app\Controllers\c_tampil.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 178)
+#1 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\asesoris\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\asesoris\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-01-11 08:03:20 --> Undefined array key 1
+#0 D:\xampp\htdocs\asesoris\app\Controllers\c_tampil.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 178)
+#1 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\asesoris\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\asesoris\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}

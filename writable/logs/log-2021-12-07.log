@@ -1,0 +1,204 @@
+CRITICAL - 2021-12-07 19:07:37 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:08:05 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:08:07 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:08:08 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:08:10 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:08:11 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:08:28 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:08:47 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:09:21 --> Undefined variable $session
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 77)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->remove_all()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:09:37 --> Undefined variable $cart
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 77)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->remove_all()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:09:51 --> Illegal offset type
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(78): CodeIgniter\Session\Session->set(Array)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->remove_all()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:10:26 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:10:30 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:11:12 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:11:14 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:13:08 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:13:11 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:13:58 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:15:48 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:15:55 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:17:34 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:18:20 --> Undefined variable $items
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 41)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(79): view('v_cart')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->remove_all()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-07 19:22:05 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:22:37 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-07 19:22:46 --> array_values(): Argument #1 ($array) must be of type array, null given
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(27): array_values(NULL)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}

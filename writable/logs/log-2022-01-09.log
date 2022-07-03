@@ -1,0 +1,92 @@
+CRITICAL - 2022-01-09 19:08:48 --> foreach() argument must be of type array|object, null given
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'D:\\xampp\\htdocs...', 47)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(36): view('v_cart')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->v_cart()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-01-09 19:41:35 --> Invalid file: v_inputBarang.php
+#0 D:\xampp\htdocs\asesoris\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_inputBarang.p...')
+#1 D:\xampp\htdocs\asesoris\system\Common.php(1097): CodeIgniter\View\View->render('v_inputBarang', Array, true)
+#2 D:\xampp\htdocs\asesoris\app\Controllers\c_tampil.php(106): view('v_inputBarang')
+#3 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(824): App\Controllers\c_tampil->v_inputBarang()
+#4 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#5 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\asesoris\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\asesoris\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-09 19:57:24 --> Call to undefined method App\Controllers\c_tampil::display()
+#0 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(824): App\Controllers\c_tampil->create()
+#1 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#2 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\asesoris\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\asesoris\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-09 20:30:08 --> Undefined variable $produk
+#0 D:\xampp\htdocs\asesoris\app\Views\v_admin.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 84)
+#1 D:\xampp\htdocs\asesoris\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\asesoris\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\asesoris\system\Common.php(1097): CodeIgniter\View\View->render('v_admin', Array, true)
+#4 D:\xampp\htdocs\asesoris\app\Controllers\c_tampil.php(126): view('v_admin')
+#5 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(824): App\Controllers\c_tampil->v_admin()
+#6 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\asesoris\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\asesoris\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-01-09 20:35:49 --> Call to a member function getRandomName() on null
+#0 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(824): App\Controllers\c_tampil->create()
+#1 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#2 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\asesoris\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\asesoris\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-09 21:23:08 --> Undefined array key 1
+#0 D:\xampp\htdocs\asesoris\app\Controllers\c_tampil.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 178)
+#1 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\asesoris\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\asesoris\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-01-09 21:23:14 --> Undefined array key 1
+#0 D:\xampp\htdocs\asesoris\app\Controllers\c_tampil.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 178)
+#1 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\asesoris\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\asesoris\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-01-09 21:23:25 --> Undefined array key 1
+#0 D:\xampp\htdocs\asesoris\app\Controllers\c_tampil.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 178)
+#1 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\asesoris\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\asesoris\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-01-09 21:24:15 --> Undefined array key 0
+#0 D:\xampp\htdocs\asesoris\app\Controllers\c_tampil.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 157)
+#1 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(824): App\Controllers\c_tampil->CekOngkir()
+#2 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\asesoris\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\asesoris\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-01-09 21:25:22 --> foreach() argument must be of type array|object, null given
+#0 D:\xampp\htdocs\asesoris\app\Views\v_cart.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'D:\\xampp\\htdocs...', 47)
+#1 D:\xampp\htdocs\asesoris\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\asesoris\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\asesoris\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\asesoris\app\Controllers\c_tampil.php(36): view('v_cart')
+#5 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(824): App\Controllers\c_tampil->v_cart()
+#6 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\asesoris\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\asesoris\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\asesoris\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}

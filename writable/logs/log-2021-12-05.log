@@ -1,0 +1,462 @@
+CRITICAL - 2021-12-05 01:09:33 --> Too few arguments to function App\Controllers\c_tampil::add_product(), 0 passed in D:\xampp\htdocs\onlineshop\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->add_product()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-05 01:11:00 --> Too few arguments to function App\Controllers\c_tampil::add_product(), 0 passed in D:\xampp\htdocs\onlineshop\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->add_product()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-05 01:13:42 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 96)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(34): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->add_product('1')
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 01:14:05 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 96)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(34): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->add_product('1')
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 01:14:28 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 96)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(34): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->add_product(' 1')
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 01:17:57 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 96)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(34): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->add_product(' 1')
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 01:34:08 --> Declaration of App\Models\M_Store::find($id) must be compatible with CodeIgniter\BaseModel::find($id = null)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-05 01:34:18 --> Declaration of App\Models\M_Store::find($id) must be compatible with CodeIgniter\BaseModel::find($id = null)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-05 01:34:59 --> Declaration of App\Models\M_Store::find($id) must be compatible with CodeIgniter\BaseModel::find($id = null)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-05 01:35:37 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::where()
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(28): App\Models\M_Store->find_id(' 1')
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy(' 1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:41:12 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy(' 1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:43:21 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$nama
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 31)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy(' 1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:44:26 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy(' 1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:44:42 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:45:53 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('.1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:46:28 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('.1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:46:31 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:48:08 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:50:30 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:50:36 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:51:33 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:52:44 --> Attempt to read property "id" on array
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:57:40 --> Attempt to read property "id" on array
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:57:58 --> Attempt to read property "id" on array
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'D:\\xampp\\htdocs...', 30)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 01:59:43 --> Attempt to read property "id" on array
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'D:\\xampp\\htdocs...', 29)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 02:01:29 --> Attempt to read property "id" on array
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 02:03:03 --> Undefined property: App\Controllers\c_tampil::$session
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 36)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 02:07:57 --> Undefined property: App\Controllers\c_tampil::$session
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 37)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 02:08:37 --> Undefined variable $items
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(28): view('v_cart')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 02:09:27 --> syntax error, unexpected token ")"
+#0 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#2 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(28): view('v_cart')
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#4 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-05 02:10:32 --> Undefined variable $item
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(28): view('v_cart')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 02:12:17 -->  route cannot be found while reverse-routing.
+#0 D:\xampp\htdocs\onlineshop\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\xampp\htdocs\onlineshop\system\Common.php(840): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(44): redirect('c_tampil')
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#4 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-05 02:12:45 -->  route cannot be found while reverse-routing.
+#0 D:\xampp\htdocs\onlineshop\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\xampp\htdocs\onlineshop\system\Common.php(840): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(44): redirect('cart')
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#4 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-05 02:13:25 --> Invalid file: cart.php
+#0 D:\xampp\htdocs\onlineshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('cart.php')
+#1 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('cart', Array, true)
+#2 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(44): view('cart')
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#4 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-05 02:13:43 --> Undefined variable $item
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(44): view('v_cart')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 02:33:39 --> syntax error, unexpected token "endforeach", expecting end of file
+#0 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#2 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(44): view('v_cart')
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#4 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-05 02:34:36 --> Undefined variable $item
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(44): view('v_cart')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 02:34:41 --> Undefined variable $items
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(44): view('v_cart')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 02:34:42 --> Undefined variable $items
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(44): view('v_cart')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 02:34:42 --> Undefined variable $items
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(44): view('v_cart')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 02:34:42 --> Undefined variable $items
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(44): view('v_cart')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 02:49:19 --> Undefined variable $items
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(51): view('v_cart')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 02:52:52 --> syntax error, unexpected token "="
+#0 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#2 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(28): view('v_cart', Array)
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#4 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-05 03:06:18 --> Undefined variable $cart
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 50)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->buy('1')
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 03:41:01 --> Undefined constant "App\Controllers\index"
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->remove('2')
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-05 03:42:19 --> Undefined constant "App\Controllers\cart"
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->remove('2')
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-05 03:42:58 --> Undefined constant "App\Controllers\index"
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->remove('2')
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-05 03:50:09 --> Undefined array key "quantity"
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_cart.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 47)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_cart', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(28): view('v_cart', Array)
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->cart()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-05 04:00:56 --> Too few arguments to function App\Controllers\c_tampil::update(), 0 passed in D:\xampp\htdocs\onlineshop\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->update()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-05 04:01:35 --> Too few arguments to function App\Controllers\c_tampil::update(), 0 passed in D:\xampp\htdocs\onlineshop\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->update()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-05 04:02:39 --> Uninitialized string offset 1
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized s...', 'D:\\xampp\\htdocs...', 77)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->update()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-05 04:03:50 --> Uninitialized string offset 1
+#0 D:\xampp\htdocs\onlineshop\app\Controllers\c_tampil.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized s...', 'D:\\xampp\\htdocs...', 77)
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\c_tampil->update()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_tampil))
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}

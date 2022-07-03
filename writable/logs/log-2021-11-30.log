@@ -1,0 +1,560 @@
+CRITICAL - 2021-11-30 20:09:10 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:09:19 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:10:03 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:10:04 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:10:04 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:10:47 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:10:47 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:10:47 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:10:47 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:10:47 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:10:48 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:10:48 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:10:48 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:11:36 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:11:36 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:11:36 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:12:52 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:12:53 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:12:53 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:13:08 --> Undefined variable $produk
+#0 D:\xampp\htdocs\onlineshop\app\Views\v_home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 142)
+#1 D:\xampp\htdocs\onlineshop\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\onlineshop\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\onlineshop\system\Common.php(1097): CodeIgniter\View\View->render('v_home', Array, true)
+#4 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(9): view('v_home')
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-30 20:17:30 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:10 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:50 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:51 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:51 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:51 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:52 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:52 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:52 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:52 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:55 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:55 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:55 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:56 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:56 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:56 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:18:56 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:19:16 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:19:16 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:19:16 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:19:16 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:19:18 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:13 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:14 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:14 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:15 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:15 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:15 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:15 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:15 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:17 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:19 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:19 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:20 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:22 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:23 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:23 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:23 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:23 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:24 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:24 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:24 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:20:47 --> Class "App\Controllers\m_store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-30 20:21:27 --> Class "App\Controllers\M_Store" not found
+#0 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2021-11-30 20:23:34 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2021-11-30 20:23:34 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 D:\xampp\htdocs\onlineshop\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xampp\htdocs\onlineshop\app\Models\m_store.php(14): CodeIgniter\Database\BaseConnection->query('SELECT * FROM p...')
+#2 D:\xampp\htdocs\onlineshop\app\Controllers\Home.php(15): App\Models\M_Store->selectAll()
+#3 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#4 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\xampp\htdocs\onlineshop\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\onlineshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\onlineshop\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
